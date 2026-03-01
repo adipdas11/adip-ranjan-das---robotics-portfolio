@@ -35,7 +35,7 @@ export default function Navbar() {
             <div className="relative group">
               <div className="absolute -inset-1 bg-gradient-to-r from-brand-primary to-brand-secondary rounded-full blur opacity-25 group-hover:opacity-50 transition duration-1000 group-hover:duration-200"></div>
               <img
-                src="/Adip.png"
+                src="Adip.png"
                 alt="Adip"
                 className="relative w-8 h-8 rounded-full object-cover border border-white/10"
                 referrerPolicy="no-referrer"

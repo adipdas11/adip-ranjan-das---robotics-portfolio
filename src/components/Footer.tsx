@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center gap-8">
           <div className="flex items-center gap-3">
             <img
-              src="/Adip.png"
+              src="Adip.png"
               alt="Adip"
               className="w-8 h-8 rounded-full object-cover border border-white/10"
               referrerPolicy="no-referrer"

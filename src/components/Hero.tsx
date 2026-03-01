@@ -76,7 +76,7 @@ export default function Hero() {
           >
             <div className="absolute -inset-2 bg-brand-primary/20 rounded-full blur-xl animate-pulse" />
             <img
-              src="/Adip.png"
+              src="Adip.png"
               alt="Adip Ranjan Das"
               className="relative w-20 h-20 rounded-full border-2 border-white/10 object-cover shadow-2xl"
               referrerPolicy="no-referrer"

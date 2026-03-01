@@ -56,7 +56,7 @@ export default function About() {
 
               <div className="relative h-full w-full rounded-[22px] overflow-hidden z-10">
                 <img
-                  src="/Adip.png"
+                  src="Adip.png"
                   alt="Adip Ranjan Das"
                   className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-1000 scale-105 group-hover:scale-100"
                   referrerPolicy="no-referrer"
